@@ -29,6 +29,6 @@ class UniqueInt {
 }
 
 // Example usage
-const inputFilePath = '/dsa/hw01/sample_inputs/sample_input_02.txt';
-const outputFilePath = '/dsa/hw01/sample_results/sample_input_02.txt_results.txt';
+const inputFilePath = '/dsa/hw01/sample_inputs/sample_input_01.txt';
+const outputFilePath = '/dsa/hw01/sample_results/sample_input_01.txt_results.txt';
 UniqueInt.processFile(inputFilePath, outputFilePath);
